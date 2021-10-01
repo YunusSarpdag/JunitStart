@@ -1,0 +1,2 @@
+public class SpyTest {
+}
